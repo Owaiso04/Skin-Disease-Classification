@@ -1,0 +1,2 @@
+# Skin Disease Classification
+ This project creates a decision support tool that analyzes dermoscopic images of skin lesions and flags those most likely to be melanoma rather than a harmless nevus. It was trained on a balanced set of examples—enhancing underrepresented cases—and calibrated its threshold to minimize missed melanomas. In practice, it can help clinicians by highlighting high risk lesions for closer examination or biopsy.
